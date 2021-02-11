@@ -1,0 +1,71 @@
+.body {
+        background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-simple-technology-blue-background-design-display-boardbackground-materialinnovationtechnologybackground-image_72625.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.wrapper{
+
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border: 10px solid rgb(149, 172, 247);
+    background-color: rgb(34, 10, 192);
+    margin-top: 60px;}
+
+.H2 { color: white;
+        font-family: garamond;
+        text-align: center;
+        font-size: 40px;
+        padding-top: 50px;
+        padding-bottom: 0px;
+        
+        margin:0px;
+    }
+
+.para {color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 0px;
+    }
+
+.container { padding: 30px;
+             box-sizing: border-box;
+             }
+
+    input[type=text] {
+        width: 100%;
+        border:none;
+        border-bottom:2px solid rgb(117, 180, 240);
+        box-sizing: border-box;
+        padding: 10px;
+        color: blue;
+        background-color:rgb(34, 10, 192) ;
+    }
+
+    input[type=email] {
+        width: 100%;
+        border:none;
+        border-bottom:2px solid rgb(117, 180, 240);
+        box-sizing: border-box;
+        padding: 10px;
+        color: blue;
+        background-color:rgb(34, 10, 192) ;
+    }
+
+.buttonpos {
+    padding-top: 40px;
+    padding-left: 130px;
+}
+
+
+
+.button {
+    background-color:rgb(34, 10, 192);
+    color: white;
+    width: 120px;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
